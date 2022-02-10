@@ -82,9 +82,9 @@ body {
   transform: rotateY(90deg) translateZ(4em);
 }
 .top {
-  transform: rotateX(270deg) translateZ(4em);
+  transform: rotateX(90deg) translateZ(4em);
 }
 
 .bottom {
-  transform: rotateX(90deg) translateZ(4em);
+  transform: rotateX(270deg) translateZ(4em);
 }
